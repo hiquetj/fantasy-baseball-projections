@@ -59,12 +59,29 @@ def main():
             else:
                 razzball(csvFile, 'pitcher')
 
-def writer():
+def totalWriter():
     with open('output.csv', 'w') as csvfile:
         reader =csv.writer(csvfile)
         reader.writerow(('Player', 'FP'))
         for value,item in playersTotal.items():
             reader.writerow((value,item))
+
+def detailBatterWriter():
+    with open('output_detail_batter.csv', 'w') as csvfile:
+        reader =csv.writer(csvfile)
+        reader.writerow(('Player', 'BB', 'R', 'SO', 'RBI', 'SB', 'TB', 'Total', 'OBP'))
+        for value,item in players.items():
+            if 'SB' in item:
+                reader.writerow((value,item['BB'],item['R'],item['SO'],item['RBI'],item['SB'],item['TB'],item['total'],item['OBP']))
+
+def detailPitcherWriter():
+    with open('output_detail_pitcher.csv', 'w') as csvfile:
+        reader =csv.writer(csvfile)
+        reader.writerow(('Player', 'IP', 'H', 'ER', 'BB', 'W', 'L', 'SV', 'HLD', 'SO', 'Total'))
+        for value,item in players.items():
+            if 'HLD' in item:
+                reader.writerow((value,item['IP'],item['H'],item['ER'],item['BB'],item['W'],item['L'],item['SV'],item['HLD'],item['SO'],item['total']))
+
 
 def getRawValue(value):
     return int(round(float(value)))
@@ -79,6 +96,8 @@ def iterate(file, mapping, position):
     for lines in file:
         scores = {}
         if position == 'batter':
+            if 'OBP' in mapping:
+                scores['OBP'] = float(lines[mapping['OBP']])
             if 'SB' in mapping:
                 scores['SB'] = getRawValue(lines[mapping['SB']])*getRawValue(scoring['SB'])
             scores['R'] = getRawValue(lines[mapping['R']]*getRawValue(scoring['R']))
@@ -86,29 +105,43 @@ def iterate(file, mapping, position):
             scores['RBI'] = getRawValue(lines[mapping['RBI']])*getRawValue(scoring['RBI'])
             scores['BB'] = getRawValue(lines[mapping['BB']])*getRawValue(scoring['BB'])
             scores['SO'] = getRawValue(lines[mapping['SO']])*getRawValue(scoring['SO'])
+        if position == 'pitcher':
+            for scoreType in scoring:
+                if scoreType in mapping:
+                    scores[scoreType] = getRawValue(lines[mapping[scoreType]])*getRawValue(scoring[scoreType])
         addPlayerScores(lines[mapping['Player']], scores)
 
 def addPlayerScores(player, scores):
     if player.strip() in players.keys():
-        if player.strip() == 'Lane Thomas':
-            print(players[player.strip()])
-            print(scores)
         for score in scores:
-            if score in players[player.strip()].keys():
-                players[player.strip()][score] = int(((int(players[player.strip()][score]) + int(scores[score])) / 2))
+            if score != 'OBP':
+                if score in players[player.strip()].keys():
+                    players[player.strip()][score] = int(((int(players[player.strip()][score]) + int(scores[score])) / 2))
+                else:
+                    players[player.strip()][score] = int(scores[score])
             else:
-                players[player.strip()][score] = int(scores[score])
+                if 'OBP' in players[player.strip()]:
+                    players[player.strip()][score] = float((float(players[player.strip()][score]) + float(scores[score])) / 2)
+                else:
+                    players[player.strip()][score] = float(scores[score])
     else:
         players[player.strip()] = {}
         playersName.append(player.strip())
         for score in scores:
-            players[player.strip()][score] = int(scores[score])
+            if score != 'OBP':
+                players[player.strip()][score] = int(scores[score])
+            else:
+                players[player.strip()][score] = float(scores[score])
+
 
 def getPlayerTotal():
     for player in players:
+        players[player]['total'] = 0
         playersTotal[player] = 0
         for score in players[player]:
-            playersTotal[player] += int(players[player][score])
+            if score != 'total':
+                playersTotal[player] += int(players[player][score])
+                players[player]['total'] += int(players[player][score])
 
 
 
@@ -134,6 +167,26 @@ def cbs(file, position):
             'SB': 15
         }
         iterate(file, cbsBatters, position)
+    if position == 'pitcher':
+        cbsPitchers = {
+            'Full': 0,
+            'Player': 1,
+            'Position': 2,
+            'Team': 3,
+            'W': 4,
+            'L': 5,
+            'ERA': 6,
+            'GP': 7,
+            'GS': 8,
+            'IP': 9,
+            'H': 10,
+            'BB': 11,
+            'SO': 12,
+            'SV': 13,
+            'HLD': 14,
+            'ER': 15
+        }
+        iterate(file, cbsPitchers, position)
         
 
 
@@ -155,6 +208,25 @@ def fangraphs(file, position):
             'SO': 11
         }
         iterate(file, fangraphsBatters, position)
+    if position == 'pitcher':
+        fangraphsPitchers = {
+            '#': 0,
+            'Player': 1,
+            'Team': 2,
+            'W': 3,
+            'L': 4,
+            'ERA': 5,
+            'G': 6,
+            'GS': 7,
+            'SV': 8,
+            'HLD': 9,
+            'IP': 10,
+            'H': 11,
+            'ER': 12,
+            'BB': 13,
+            'SO': 14
+        }
+        iterate(file, fangraphsPitchers, position)
 
 def razzball(file, position):
     print('Reading Razzball: ' + position)
@@ -179,6 +251,27 @@ def razzball(file, position):
             'OBP': 16
         }
         iterate(file, razzballBatters, position)
+    if position == 'pitcher':
+        razzballPitchers = {
+            'Player': 0,
+            'Team': 1,
+            'POS': 2,
+            'R/L': 3,
+            'G': 4,
+            'GS': 5,
+            'IP': 6,
+            'W': 7,
+            'L': 8,
+            'SV': 9,
+            'HLD': 10,
+            'ERA': 11,
+            'SO': 12,
+            'BB': 13,
+            'H': 14,
+            'ER': 15,
+            'LD%': 16
+        }
+        iterate(file, razzballPitchers, position)
 
 def fantasypros(file, position):
     print('Reading Fantasypros: ' + position)
@@ -200,10 +293,32 @@ def fantasypros(file, position):
             'SO': 13
         }
         iterate(file, fantasyprosBatters, position)
+    if position == 'pitcher':
+        fantasyprosPitchers = {
+            'Player': 0,
+            'Team': 1,
+            'Positions': 2,
+            'IP': 3,
+            'SO': 4,
+            'W': 5,
+            'SV': 6,
+            'ERA': 7,
+            'ER': 8,
+            'H': 9,
+            'BB': 10,
+            'HR': 11,
+            'G': 12,
+            'GS': 13,
+            'L': 14,
+            'CG': 15
+        }
+        iterate(file, fantasyprosPitchers, position)
 
 
 
 main()
 getPlayerTotal()
-writer()
-print(playersTotal)
+totalWriter()
+detailBatterWriter()
+detailPitcherWriter()
+print('DONE!')

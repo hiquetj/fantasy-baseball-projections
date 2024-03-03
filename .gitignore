@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 output.csv
+output_detail.csv
+output_detail_batter.csv
+output_detail_pitcher.csv

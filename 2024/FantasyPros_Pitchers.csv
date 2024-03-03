@@ -1,4 +1,4 @@
-Player,Team,Positions,IP,K,W,SV,ERA,ER,H,BB,HR,G,GS,L,CG
+Player,Team,Positions,IP,SO,W,SV,ERA,ER,H,BB,HR,G,GS,L,CG
 Spencer Strider,ATL,SP,179.2,255,15,0,3.28,65,134,58,21,30,30,6,0
 Gerrit Cole,NYY,SP,196,219,13,0,3.58,78,167,51,27,32,31,8,2
 Corbin Burnes,BAL,SP,188.5,201,12,0,3.57,75,160,58,21,31,31,8,0
