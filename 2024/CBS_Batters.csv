@@ -1,0 +1,272 @@
+Full,Player,Position,Team,GP,R,1B,2B,3B,HR,RBI,OBP,BB,SO,TB,SB
+J.T. Realmuto C PHI,J.T. Realmuto ,C,PHI,129,73,76,28,4,20,75,0.328,35,129,224,16
+Will Smith C LAD,Will Smith ,C,LAD,117,68,78,23,3,17,72,0.366,50,81,201,2
+Willson Contreras C STL,Willson Contreras ,C,STL,112,59,61,28,1,21,65,0.378,48,96,204,5
+Salvador Perez C KC,Salvador Perez ,C, KC,121,58,77,21,0,27,81,0.309,19,119,227,0
+Sean Murphy C ATL,Sean Murphy ,C,ATL,113,66,61,22,0,21,72,0.357,44,108,189,1
+William Contreras C MIL,William Contreras ,C,MIL,113,63,75,30,1,14,62,0.357,43,104,194,4
+Adley Rutschman C BAL,Adley Rutschman ,C,BAL,118,53,74,23,1,15,53,0.355,55,89,183,1
+Yainer Diaz C HOU,Yainer Diaz ,C,HOU,105,53,61,27,0,22,63,0.324,20,88,203,1
+Francisco Alvarez C NYM,Francisco Alvarez ,C,NYM,112,56,55,17,0,24,67,0.305,34,107,185,3
+Travis dArnaud C ATL,Travis dArnaud ,C,ATL,97,54,55,23,1,19,65,0.317,28,92,180,0
+Danny Jansen C TOR,Danny Jansen ,C,TOR,105,50,48,19,0,20,63,0.314,34,84,166,1
+Bo Naylor C CLE,Bo Naylor ,C,CLE,97,49,51,21,1,17,51,0.339,46,88,164,7
+Tyler Stephenson C CIN,Tyler Stephenson ,C,CIN,121,55,81,21,2,13,60,0.331,41,124,181,1
+Cal Raleigh C SEA,Cal Raleigh ,C,SEA,105,56,52,18,1,20,58,0.317,42,109,171,1
+Mitch Garver DH SEA,Mitch Garver ,C,SEA,97,53,57,14,0,19,64,0.34,44,113,161,1
+Gabriel Moreno C ARI,Gabriel Moreno ,C,ARI,112,43,76,20,1,13,61,0.333,36,100,171,5
+Austin Wells C NYY,Austin Wells ,C,NYY,97,49,50,20,1,18,59,0.31,36,93,165,2
+Jake Rogers C DET,Jake Rogers ,C,DET,97,55,56,14,0,23,57,0.316,35,124,176,1
+MJ Melendez RF KC,MJ Melendez ,C, KC,105,53,52,22,2,16,49,0.333,50,118,166,4
+Ryan Jeffers C MIN,Ryan Jeffers ,C,MIN,96,50,59,20,3,14,51,0.35,39,105,164,4
+Jonah Heim C TEX,Jonah Heim ,C,TEX,97,45,61,21,0,14,66,0.304,31,88,159,2
+Alejandro Kirk C TOR,Alejandro Kirk ,C,TOR,105,41,77,16,0,10,45,0.357,40,44,149,0
+Yasmani Grandal C PIT,Yasmani Grandal ,C,PIT,127,41,77,16,0,12,48,0.337,64,115,157,1
+Keibert Ruiz C WAS,Keibert Ruiz ,C,WAS,104,44,66,19,0,15,52,0.306,27,69,164,1
+Logan OHoppe C LAA,Logan OHoppe ,C,LAA,95,44,51,16,1,21,54,0.299,31,100,170,1
+Rene Pinto C TB,Rene Pinto ,C, TB,97,47,60,17,1,18,54,0.302,27,111,169,2
+Shea Langeliers C OAK,Shea Langeliers ,C,OAK,105,44,45,20,4,19,53,0.289,28,117,173,2
+Elias Diaz C COL,Elias Diaz ,C,COL,96,42,67,21,1,13,57,0.317,28,103,164,2
+Freddie Freeman 1B  LAD,Freddie Freeman ,1B,LAD,151,111,118,49,3,22,91,0.413,66,104,313,17
+Bryce Harper DH  PHI,Bryce Harper ,1B,PHI,153,111,109,38,2,29,98,0.416,93,146,307,16
+Matt Olson 1B  ATL,Matt Olson ,1B,ATL,154,110,85,27,4,42,120,0.39,86,148,319,1
+Pete Alonso 1B  NYM,Pete Alonso ,1B,NYM,152,93,69,25,1,43,122,0.334,59,142,294,4
+Paul Goldschmidt 1B  STL,Paul Goldschmidt ,1B,STL,152,94,100,36,0,28,90,0.387,82,151,284,9
+Christian Walker 1B  ARI,Christian Walker ,1B,ARI,144,73,76,34,2,29,87,0.349,59,125,266,13
+Vladimir Guerrero 1B  TOR,Vladimir Guerrero ,1B,TOR,150,76,98,28,0,25,87,0.345,57,94,254,5
+Cody Bellinger CF  CHC,Cody Bellinger ,1B,CHC,129,83,87,29,1,24,84,0.347,42,101,244,17
+Luis Arraez 2B  MIA,Luis Arraez ,1B,MIA,145,80,146,31,3,11,66,0.382,39,46,261,4
+Josh Naylor 1B  CLE,Josh Naylor ,1B,CLE,130,57,94,32,0,23,104,0.361,39,89,250,8
+Justin Turner DH  TOR,Justin Turner ,1B,TOR,145,74,103,28,0,20,90,0.35,51,96,239,4
+Jeimer Candelario 3B  CIN,Jeimer Candelario ,1B,CIN,129,76,64,37,4,25,73,0.361,56,142,250,8
+Yandy Diaz 1B  TB,Yandy Diaz ,1B, TB,130,80,101,31,0,20,68,0.391,59,97,243,1
+Jake Cronenworth 1B  SD,Jake Cronenworth ,1B, SD,145,75,90,30,12,15,72,0.345,46,107,246,5
+Jose Abreu 1B  HOU,Jose Abreu ,1B,HOU,145,72,95,29,1,20,90,0.346,52,116,236,1
+Vinnie Pasquantino 1B  KC,Vinnie Pasquantino ,1B, KC,129,61,79,32,0,25,70,0.364,55,78,243,1
+Anthony Santander RF  BAL,Anthony Santander ,1B,BAL,138,69,74,31,1,28,81,0.324,44,130,251,3
+Isaac Paredes 3B  TB,Isaac Paredes ,1B, TB,130,64,68,25,1,25,81,0.353,54,106,221,2
+Spencer Torkelson 1B  DET,Spencer Torkelson ,1B,DET,130,75,67,30,1,25,76,0.343,54,133,230,3
+Spencer Steer 1B  CIN,Spencer Steer ,1B,CIN,129,62,80,32,2,19,72,0.357,51,117,226,11
+Brendan Donovan 2B  STL,Brendan Donovan ,1B,STL,128,72,94,22,3,17,59,0.356,45,89,215,9
+Anthony Rizzo 1B  NYY,Anthony Rizzo ,1B,NYY,130,68,71,24,1,23,68,0.362,59,115,214,2
+Christian Encarnacion-Strand 1B  CIN,Christian Encarnacion-Strand ,1B,CIN,129,68,87,24,1,23,80,0.352,44,134,230,4
+Ty France 1B  SEA,Ty France ,1B,SEA,146,71,100,31,1,14,66,0.347,38,103,221,1
+Nolan Schanuel 1B  LAA,Nolan Schanuel ,1B,LAA,127,73,87,24,1,18,60,0.362,59,116,210,2
+Alec Bohm 3B  PHI,Alec Bohm ,1B,PHI,129,65,87,27,1,16,80,0.331,39,93,208,4
+Andrew Vaughn 1B  CHW,Andrew Vaughn ,1B,CHW,130,60,80,28,4,21,73,0.331,35,110,232,0
+Nolan Jones LF  COL,Nolan Jones ,1B,COL,112,63,68,24,4,17,67,0.371,55,128,196,18
+Josh Bell DH  MIA,Josh Bell ,1B,MIA,129,57,81,25,1,21,70,0.348,54,118,218,0
+Nate Lowe 1B  TEX,Nate Lowe ,1B,TEX,130,65,87,28,4,16,62,0.359,56,128,219,1
+Triston Casas 1B  BOS,Triston Casas ,1B,BOS,112,63,71,22,2,22,64,0.381,62,119,209,1
+Rhys Hoskins 1B  MIL,Rhys Hoskins ,1B,MIL,129,65,63,27,1,23,66,0.335,63,143,212,2
+Salvador Perez C  KC,Salvador Perez ,1B, KC,121,58,77,21,0,27,81,0.309,19,119,227,0
+DJ LeMahieu 3B  NYY,DJ LeMahieu ,1B,NYY,130,63,83,25,4,14,48,0.359,62,103,201,3
+Joey Meneses DH  WAS,Joey Meneses ,1B,WAS,128,61,92,29,1,15,74,0.331,36,127,213,1
+Mark Canha LF  DET,Mark Canha ,1B,DET,130,54,86,24,1,13,58,0.358,43,100,189,7
+Brandon Drury 2B  LAA,Brandon Drury ,1B,LAA,111,59,63,30,3,21,73,0.317,26,117,216,1
+Kyle Manzardo 1B  CLE,Kyle Manzardo ,1B,CLE,113,52,69,22,1,15,57,0.343,42,89,176,2
+Jonathan Aranda 1B  TB,Jonathan Aranda ,1B, TB,97,53,60,20,3,16,60,0.35,45,102,173,2
+Dominic Smith 1B  WAS,Dominic Smith ,1B,WAS,113,54,72,20,1,15,50,0.346,46,93,175,1
+Alex Kirilloff 1B  MIN,Alex Kirilloff ,1B,MIN,96,53,66,19,2,16,55,0.363,42,97,174,2
+Seth Brown RF  OAK,Seth Brown ,1B,OAK,97,43,51,23,3,20,60,0.325,35,106,186,6
+Kody Clemens 1B  PHI,Kody Clemens ,1B,PHI,97,55,62,21,1,17,58,0.337,37,99,175,2
+Wilmer Flores 1B  SF,Wilmer Flores ,1B, SF,87,46,53,21,1,19,53,0.347,32,51,174,0
+Matt Mervis 1B  CHC,Matt Mervis ,1B,CHC,97,52,59,20,1,17,63,0.333,39,100,170,2
+Ryan Mountcastle 1B  BAL,Ryan Mountcastle ,1B,BAL,122,58,77,23,1,14,56,0.318,39,126,182,3
+Mookie Betts RF  LAD,Mookie Betts ,2B,LAD,151,117,97,38,2,33,94,0.383,76,108,311,13
+Jose Altuve 2B  HOU,Jose Altuve ,2B,HOU,153,110,111,37,1,26,69,0.381,62,110,292,20
+Marcus Semien 2B  TEX,Marcus Semien ,2B,TEX,151,101,101,34,5,23,81,0.332,53,103,276,15
+Ozzie Albies 2B  ATL,Ozzie Albies ,2B,ATL,146,87,93,27,5,26,97,0.339,45,106,266,12
+Gleyber Torres 2B  NYY,Gleyber Torres ,2B,NYY,146,88,100,30,4,23,70,0.36,61,90,264,13
+Ketel Marte 2B  ARI,Ketel Marte ,2B,ARI,144,81,95,29,7,23,77,0.359,57,113,266,10
+Luis Arraez 2B  MIA,Luis Arraez ,2B,MIA,145,79,146,31,3,11,66,0.382,39,47,261,4
+Justin Turner DH  TOR,Justin Turner ,2B,TOR,145,74,102,28,0,20,90,0.348,51,96,238,4
+Brandon Lowe 2B  TB,Brandon Lowe ,2B, TB,146,80,80,24,2,24,86,0.326,62,151,230,11
+Jake Cronenworth 1B  SD,Jake Cronenworth ,2B, SD,145,75,90,30,12,15,72,0.345,46,107,246,5
+Tommy Edman 2B  STL,Tommy Edman ,2B,STL,128,77,84,29,7,14,51,0.336,39,90,219,29
+Andres Gimenez 2B  CLE,Andres Gimenez ,2B,CLE,130,70,84,25,4,19,63,0.352,32,112,222,26
+Jeff McNeil 2B  NYM,Jeff McNeil ,2B,NYM,144,73,117,32,4,10,60,0.354,37,65,233,8
+Jorge Polanco 2B  SEA,Jorge Polanco ,2B,SEA,146,70,83,30,0,22,84,0.338,67,149,231,7
+Matt McLain SS  CIN,Matt McLain ,2B,CIN,129,82,91,32,5,18,64,0.354,39,141,242,18
+Isaac Paredes 3B  TB,Isaac Paredes ,2B, TB,130,64,68,25,1,25,80,0.353,54,106,221,2
+Ryan McMahon 3B  COL,Ryan McMahon ,2B,COL,144,79,76,28,4,25,75,0.34,67,182,244,5
+Spencer Steer 1B  CIN,Spencer Steer ,2B,CIN,129,62,80,32,2,19,72,0.357,51,117,226,11
+Brendan Donovan 2B  STL,Brendan Donovan ,2B,STL,128,72,94,22,3,17,59,0.355,45,89,215,9
+Zack Gelof 3B  OAK,Zack Gelof ,2B,OAK,129,67,73,35,3,20,56,0.33,42,131,232,20
+Whit Merrifield 2B  PHI,Whit Merrifield ,2B,PHI,129,73,93,27,1,14,70,0.323,35,103,206,21
+Christopher Morel DH  CHC,Christopher Morel ,2B,CHC,129,72,72,23,3,26,78,0.325,45,154,231,7
+Justin Foscue 2B  TEX,Justin Foscue ,2B,TEX,130,71,83,27,3,16,64,0.328,42,108,210,12
+Ha-Seong Kim 2B  SD,Ha-Seong Kim ,2B, SD,121,69,90,22,1,13,54,0.351,45,97,189,27
+Nico Hoerner 2B  CHC,Nico Hoerner ,2B,CHC,113,66,88,22,3,8,48,0.346,35,68,173,26
+Jonathan India 2B  CIN,Jonathan India ,2B,CIN,113,70,71,26,1,15,57,0.344,41,99,186,12
+Thairo Estrada 2B  SF,Thairo Estrada ,2B, SF,116,61,86,27,3,14,52,0.333,23,94,205,21
+Nolan Gorman 2B  STL,Nolan Gorman ,2B,STL,120,60,67,21,1,20,69,0.338,53,129,192,9
+Brandon Drury 2B  LAA,Brandon Drury ,2B,LAA,111,59,63,30,3,21,74,0.317,26,117,216,1
+Bryson Stott 2B  PHI,Bryson Stott ,2B,PHI,113,57,85,24,2,10,48,0.333,27,78,179,22
+Edouard Julien 2B  MIN,Edouard Julien ,2B,MIN,112,68,68,22,2,17,48,0.372,63,118,186,5
+Brendan Rodgers 2B  COL,Brendan Rodgers ,2B,COL,128,65,83,27,3,13,61,0.321,39,111,198,2
+Joseph Ortiz 2B  MIL,Joseph Ortiz ,2B,MIL,129,62,76,24,3,12,55,0.318,40,103,181,10
+Gavin Lux SS  LAD,Gavin Lux ,2B,LAD,117,65,80,20,6,9,51,0.341,42,93,174,8
+Jose Caballero 2B  TB,Jose Caballero ,2B, TB,97,50,63,19,5,9,45,0.335,37,87,152,23
+Jordan Diaz 3B  OAK,Jordan Diaz ,2B,OAK,129,48,77,19,1,19,57,0.313,39,120,194,2
+Enmanuel Valdez 2B  BOS,Enmanuel Valdez ,2B,BOS,96,52,67,20,1,16,52,0.323,29,95,174,11
+Corey Seager SS  TEX,Corey Seager ,SS,TEX,154,102,103,45,1,33,105,0.372,57,117,328,5
+Bobby Witt SS  KC,Bobby Witt ,SS, KC,150,94,101,28,7,29,93,0.338,42,112,294,42
+Francisco Lindor SS  NYM,Francisco Lindor ,SS,NYM,152,101,91,34,4,26,92,0.345,57,121,275,27
+Trea Turner SS  PHI,Trea Turner ,SS,PHI,153,98,113,35,5,23,79,0.343,41,133,290,35
+Xander Bogaerts SS  SD,Xander Bogaerts ,SS, SD,153,86,129,34,2,18,67,0.367,48,107,275,16
+J.P. Crawford SS  SEA,J.P. Crawford ,SS,SEA,146,92,89,35,1,19,69,0.373,79,122,238,5
+Bo Bichette SS  TOR,Bo Bichette ,SS,TOR,150,77,123,33,4,21,79,0.343,31,123,285,8
+Oneil Cruz SS  PIT,Oneil Cruz ,SS,PIT,127,78,80,23,5,23,80,0.338,49,142,233,21
+Dansby Swanson SS  CHC,Dansby Swanson ,SS,CHC,145,81,94,27,3,20,80,0.336,56,149,237,11
+Tommy Edman 2B  STL,Tommy Edman ,SS,STL,128,77,84,29,7,14,51,0.336,39,90,219,29
+Gunnar Henderson 3B  BAL,Gunnar Henderson ,SS,BAL,138,81,75,26,8,26,69,0.333,47,143,255,8
+Carlos Correa SS  MIN,Carlos Correa ,SS,MIN,144,71,89,31,3,22,75,0.351,61,129,248,1
+Matt McLain SS  CIN,Matt McLain ,SS,CIN,129,82,91,32,5,18,64,0.354,39,141,242,18
+Willy Adames SS  MIL,Willy Adames ,SS,MIL,145,72,70,32,3,24,83,0.321,56,151,239,6
+Elly De La Cruz SS  CIN,Elly De ,SS,IN,129,77,80,24,7,15,59,0.32,41,153,209,35
+Ha-seong Kim 2B  SD,Ha-seong Kim ,SS, SD,121,69,90,22,1,13,54,0.351,45,97,189,27
+Anthony Volpe SS  NYY,Anthony Volpe ,SS,NYY,130,65,63,25,4,19,60,0.314,51,136,201,23
+Nico Hoerner 2B  CHC,Nico Hoerner ,SS,CHC,113,66,88,22,3,8,48,0.346,35,68,173,26
+Thairo Estrada 2B  SF,Thairo Estrada ,SS, SF,116,61,86,27,3,14,52,0.333,23,94,205,21
+C.J. Abrams SS  WAS,C.J. Abrams ,SS,WAS,112,61,67,22,5,15,52,0.307,28,105,186,31
+Trevor Story SS  BOS,Trevor Story ,SS,BOS,128,60,75,27,1,18,70,0.306,37,158,204,22
+Ezequiel Tovar SS  COL,Ezequiel Tovar ,SS,COL,128,72,78,29,4,14,66,0.302,26,137,204,11
+Javier Baez SS  DET,Javier Baez ,SS,DET,130,64,80,21,5,14,70,0.297,26,124,193,11
+Jeremy Pena SS  HOU,Jeremy Pena ,SS,HOU,129,67,90,25,4,13,49,0.329,30,112,204,10
+Zachary Neto SS  LAA,Zachary Neto ,SS,LAA,127,60,66,28,1,12,50,0.307,40,118,173,10
+Jose Caballero 2B  TB,Jose Caballero ,SS, TB,97,50,63,19,5,9,45,0.335,37,87,152,23
+Orlando Arcia SS  ATL,Orlando Arcia ,SS,ATL,113,59,75,22,1,14,57,0.331,32,91,178,4
+Chris Taylor LF  LAD,Chris Taylor ,SS,LAD,109,54,59,21,3,15,57,0.322,42,138,170,14
+Luis Rengifo 2B  LAA,Luis Rengifo ,SS,LAA,103,48,71,19,3,14,48,0.334,29,72,174,7
+Vaughn Grissom SS  BOS,Vaughn Grissom ,SS,BOS,112,51,84,22,3,9,50,0.33,26,97,173,11
+Geraldo Perdomo SS  ARI,Geraldo Perdomo ,SS,ARI,96,57,68,17,3,9,43,0.345,41,82,147,14
+Jose Ramirez 3B  CLE,Jose Ramirez ,3B,CLE,151,84,95,35,5,29,92,0.376,72,77,296,25
+Manny Machado 3B  SD,Manny Machado ,3B, SD,153,92,108,31,1,33,107,0.346,48,121,305,5
+Alex Bregman 3B  HOU,Alex Bregman ,3B,HOU,150,93,89,31,4,24,89,0.373,78,82,259,2
+Nolan Arenado 3B  STL,Nolan Arenado ,3B,STL,152,77,98,36,3,29,103,0.345,48,99,295,4
+Rafael Devers 3B  BOS,Rafael Devers ,3B,BOS,149,81,90,33,1,31,91,0.349,56,132,283,4
+Austin Riley 3B  ATL,Austin Riley ,3B,ATL,146,99,93,30,3,30,86,0.348,49,150,282,3
+Jeimer Candelario 3B  CIN,Jeimer Candelario ,3B,CIN,129,76,64,37,4,25,73,0.361,56,142,250,8
+Gunnar Henderson 3B  BAL,Gunnar Henderson ,3B,BAL,138,81,75,26,8,26,69,0.333,47,143,255,8
+Royce Lewis 3B  MIN,Royce Lewis ,3B,MIN,112,71,73,19,1,27,90,0.365,44,102,222,9
+Jorge Polanco 2B  SEA,Jorge Polanco ,3B,SEA,146,70,83,30,0,22,84,0.338,67,149,231,7
+Isaac Paredes 3B  TB,Isaac Paredes ,3B, TB,130,64,68,25,1,25,80,0.353,54,106,221,2
+Ryan McMahon 3B  COL,Ryan McMahon ,3B,COL,144,79,76,28,4,25,75,0.34,67,182,244,5
+Spencer Steer 1B  CIN,Spencer Steer ,3B,CIN,129,62,80,32,2,19,72,0.357,51,117,226,11
+KeBryan Hayes 3B  PIT,KeBryan Hayes ,3B,PIT,127,69,88,30,7,18,71,0.332,32,110,241,9
+Max Muncy 3B  LAD,Max Muncy ,3B,LAD,125,77,56,19,2,25,85,0.328,63,134,200,2
+Ha-seong Kim 2B  SD,Ha-seong Kim ,3B, SD,121,69,90,22,1,13,54,0.351,45,97,189,27
+Alec Bohm 3B  PHI,Alec Bohm ,3B,PHI,129,66,87,27,1,16,81,0.33,39,93,208,4
+Noelvi Marte 3B  CIN,Noelvi Marte ,3B,CIN,129,64,84,28,3,17,67,0.346,43,122,217,10
+Nolan Gorman 2B  STL,Nolan Gorman ,3B,STL,120,60,67,21,1,20,69,0.338,53,129,192,9
+Josh Jung 3B  TEX,Josh Jung ,3B,TEX,130,69,82,25,4,21,67,0.316,31,152,228,2
+DJ LeMahieu 3B  NYY,DJ LeMahieu ,3B,NYY,130,63,83,24,4,14,48,0.358,62,103,199,3
+Colt Keith 3B  DET,Colt Keith ,3B,DET,130,60,76,25,3,17,61,0.331,43,124,203,5
+Eugenio Suarez 3B  ARI,Eugenio Suarez ,3B,ARI,128,57,73,23,2,18,74,0.339,52,138,197,1
+Jake Burger 3B  MIA,Jake Burger ,3B,MIA,113,58,61,25,2,22,67,0.324,30,117,205,2
+Yoan Moncada 3B  CHW,Yoan Moncada ,3B,CHW,130,60,72,31,1,20,66,0.31,39,153,217,2
+Anthony Rendon 3B  LAA,Anthony Rendon ,3B,LAA,127,54,75,24,1,10,54,0.338,60,92,166,6
+Junior Caminero 3B  TB,Junior Caminero ,3B, TB,113,59,68,23,2,17,62,0.326,40,115,188,4
+Michael Busch 3B  CHC,Michael Busch ,3B,CHC,113,60,63,23,2,15,61,0.327,40,106,175,5
+Jordan Diaz 3B  OAK,Jordan Diaz ,3B,OAK,129,48,77,19,1,19,57,0.313,39,120,194,2
+Ronald Acuna RF  ATL,Ronald Acuna ,OF,ATL,154,128,121,34,4,32,93,0.407,69,92,329,60
+Aaron Judge RF  NYY,Aaron Judge ,OF,NYY,154,117,73,29,0,50,113,0.422,117,162,331,9
+Juan Soto LF  NYY,Juan Soto ,OF,NYY,154,97,85,32,3,38,108,0.423,120,127,310,12
+Mookie Betts RF  LAD,Mookie Betts ,OF,LAD,151,117,97,38,2,33,94,0.383,76,108,311,13
+Yordan Alvarez DH  HOU,Yordan Alvarez ,OF,HOU,150,99,87,33,2,40,120,0.408,82,123,319,1
+Corbin Carroll LF  ARI,Corbin Carroll ,OF,ARI,144,102,93,29,8,25,72,0.368,55,125,275,48
+Kyle Tucker RF  HOU,Kyle Tucker ,OF,HOU,145,86,82,35,5,24,90,0.367,70,96,263,23
+Fernando Tatis RF  SD,Fernando Tatis ,OF, SD,153,96,107,38,3,24,79,0.339,48,142,288,28
+Mike Trout CF  LAA,Mike Trout ,OF,LAA,148,100,81,33,4,35,90,0.375,74,178,299,4
+Julio Rodriguez CF  SEA,Julio Rodriguez ,OF,SEA,151,90,96,32,4,27,91,0.336,47,150,280,30
+Kyle Schwarber LF  PHI,Kyle Schwarber ,OF,PHI,145,100,50,21,1,41,94,0.351,99,183,259,4
+Christian Yelich LF  MIL,Christian Yelich ,OF,MIL,145,100,101,35,4,17,68,0.378,72,139,251,24
+Luis Robert CF  CHW,Luis Robert ,OF,CHW,146,88,74,34,3,36,82,0.319,38,167,295,19
+Bryan Reynolds LF  PIT,Bryan Reynolds ,OF,PIT,148,87,95,30,5,26,85,0.345,53,138,274,13
+Cody Bellinger CF  CHC,Cody Bellinger ,OF,CHC,129,83,88,29,2,24,85,0.351,42,101,248,17
+George Springer RF  TOR,George Springer ,OF,TOR,150,86,103,22,4,22,73,0.33,54,113,247,17
+Michael Harris CF  ATL,Michael Harris ,OF,ATL,146,86,100,35,5,19,69,0.334,29,123,261,23
+Brandon Nimmo CF  NYM,Brandon Nimmo ,OF,NYM,144,87,96,31,8,20,65,0.367,60,128,262,3
+Eloy Jimenez DH  CHW,Eloy Jimenez ,OF,CHW,146,71,105,30,0,27,94,0.343,46,125,273,0
+Randy Arozarena LF  TB,Randy Arozarena ,OF, TB,146,84,94,23,3,20,75,0.361,71,148,229,18
+Adolis Garcia RF  TEX,Adolis Garcia ,OF,TEX,130,83,70,24,1,29,87,0.328,47,148,237,9
+Joshua Lowe RF  TB,Joshua Lowe ,OF, TB,130,71,84,30,2,20,75,0.333,40,131,230,27
+Jazz Chisholm CF  MIA,Jazz Chisholm ,OF,MIA,129,76,77,22,5,24,80,0.321,40,153,232,27
+Tommy Edman 2B  STL,Tommy Edman ,OF,STL,128,77,84,29,7,14,51,0.336,39,90,219,29
+Nick Castellanos RF  PHI,Nick Castellanos ,OF,PHI,145,74,96,34,1,23,91,0.318,34,159,259,10
+Evan Carter LF  TEX,Evan Carter ,OF,TEX,130,76,73,38,4,20,68,0.354,51,137,241,14
+Jeff McNeil 2B  NYM,Jeff McNeil ,OF,NYM,144,73,117,32,4,10,60,0.354,37,65,233,8
+Cedric Mullins CF  BAL,Cedric Mullins ,OF,BAL,138,68,77,30,5,17,75,0.317,44,120,220,26
+Starling Marte RF  NYM,Starling Marte ,OF,NYM,144,76,109,21,4,15,61,0.325,28,121,223,31
+Anthony Santander RF  BAL,Anthony Santander ,OF,BAL,138,70,74,31,1,28,81,0.324,44,130,251,3
+Steven Kwan LF  CLE,Steven Kwan ,OF,CLE,130,78,98,27,6,7,48,0.363,58,62,198,16
+Spencer Steer 1B  CIN,Spencer Steer ,OF,CIN,129,62,80,32,2,19,72,0.357,51,117,226,11
+Kerry Carpenter RF  DET,Kerry Carpenter ,OF,DET,130,71,88,23,3,22,73,0.353,40,130,231,9
+Seiya Suzuki RF  CHC,Seiya Suzuki ,OF,CHC,129,71,85,30,5,19,72,0.356,50,123,236,7
+Kris Bryant RF  COL,Kris Bryant ,OF,COL,144,80,98,23,1,20,64,0.342,57,131,227,3
+Riley Greene CF  DET,Riley Greene ,OF,DET,130,76,96,26,7,18,60,0.362,48,143,241,11
+Brendan Donovan 2B  STL,Brendan Donovan ,OF,STL,128,72,94,22,3,17,59,0.355,45,89,215,9
+Teoscar Hernandez RF  LAD,Teoscar Hernandez ,OF,LAD,125,68,82,28,4,22,84,0.331,35,143,238,7
+Whit Merrifield 2B  PHI,Whit Merrifield ,OF,PHI,129,73,93,27,1,14,70,0.323,35,103,206,21
+Charlie Blackmon DH  COL,Charlie Blackmon ,OF,COL,128,70,80,26,6,16,64,0.346,47,99,214,5
+Max Kepler RF  MIN,Max Kepler ,OF,MIN,128,75,76,27,2,23,67,0.338,47,118,228,4
+Lane Thomas RF  WAS,Lane Thomas ,OF,WAS,128,76,76,28,3,24,67,0.32,34,158,237,15
+Lourdes Gurriel LF  ARI,Lourdes Gurriel ,OF,ARI,128,60,80,30,2,22,74,0.328,31,101,234,7
+Christopher Morel DH  CHC,Christopher Morel ,OF,CHC,129,72,72,23,3,26,78,0.325,45,154,231,7
+Wyatt Langford OF  TEX,Wyatt Langford ,OF,TEX,130,72,77,28,3,19,67,0.33,46,129,218,12
+TJ Friedl CF  CIN,TJ Friedl ,OF,CIN,113,64,78,23,5,15,59,0.353,39,91,199,20
+Esteury Ruiz CF  OAK,Esteury Ruiz ,OF,OAK,121,52,85,27,2,8,51,0.315,24,105,177,53
+Alex Verdugo RF  NYY,Alex Verdugo ,OF,NYY,130,72,76,27,5,16,57,0.334,51,85,209,4
+Jarred Kelenic LF  ATL,Jarred Kelenic ,OF,ATL,113,67,71,28,4,17,67,0.356,44,116,207,15
+Jordan Walker RF  STL,Jordan Walker ,OF,STL,128,64,84,25,4,19,64,0.347,44,118,222,9
+Nolan Jones LF  COL,Nolan Jones ,OF,COL,112,63,68,24,4,17,67,0.371,55,128,196,18
+Masataka Yoshida LF  BOS,Masataka Yoshida ,OF,BOS,128,62,92,29,4,15,62,0.338,34,95,222,8
+Giancarlo Stanton DH  NYY,Giancarlo Stanton ,OF,NYY,130,62,51,19,0,31,89,0.304,57,147,213,0
+Chas McCormick LF  HOU,Chas McCormick ,OF,HOU,121,59,78,20,2,18,67,0.349,40,117,196,20
+Ian Happ LF  CHC,Ian Happ ,OF,HC,121,62,64,28,3,16,61,0.354,62,115,193,11
+Jake Fraley RF  CIN,Jake Fraley ,OF,CIN,97,55,67,23,1,18,67,0.359,38,87,188,17
+Jung-Hoo Lee CF  SF,Jung-Hoo Lee ,OF, SF,131,60,83,26,4,15,60,0.333,36,91,207,8
+Joc Pederson DH  ARI,Joc Pederson ,OF,ARI,112,61,68,20,6,19,66,0.356,49,97,202,2
+Andrew Benintendi LF  CHW,Andrew Benintendi ,OF,CHW,130,65,101,30,3,6,49,0.348,50,85,194,10
+Parker Meadows CF  DET,Parker Meadows ,OF,DET,130,66,77,23,4,15,56,0.325,48,132,195,17
+Will Benson RF  CIN,Will Benson ,OF,CIN,113,65,68,25,6,14,49,0.361,46,121,192,21
+Daulton Varsho LF  TOR,Daulton Varsho ,OF,TOR,129,62,69,22,3,20,60,0.307,39,116,202,15
+Harold Ramirez DH  TB,Harold Ramirez ,OF, TB,113,61,89,24,3,14,70,0.358,35,98,202,5
+Jackson Chourio CF  MIL,Jackson Chourio ,OF,MIL,129,65,73,25,3,16,61,0.331,48,123,196,11
+Jarren Duran CF  BOS,Jarren Duran ,OF,BOS,112,58,68,34,3,13,53,0.336,33,125,197,24
+Lars Nootbaar CF  STL,Lars Nootbaar ,OF,STL,112,67,68,24,3,14,48,0.366,59,98,181,10
+Mark Canha LF  DET,Mark Canha ,OF,DET,130,54,86,25,1,13,58,0.36,43,101,191,7
+Jorge Soler DH  SF,Jorge Soler ,OF, SF,109,60,46,20,0,29,61,0.339,54,124,202,1
+Hunter Goodman RF  COL,Hunter Goodman ,OF,COL,128,62,70,26,5,14,72,0.311,42,137,193,10
+Jack Suwinski CF  PIT,Jack Suwinski ,OF,PIT,111,57,55,20,2,22,62,0.346,55,129,189,10
+Brandon Marsh CF  PHI,Brandon Marsh ,OF,PHI,113,59,71,26,5,14,61,0.368,47,127,194,9
+Ceddanne Rafaela CF  BOS,Ceddanne Rafaela ,OF,BOS,112,65,73,27,2,16,55,0.326,38,124,197,11
+James Outman CF  LAD,James Outman ,OF,LAD,109,68,66,17,3,17,57,0.356,47,129,177,12
+Edward Olivares LF  PIT,Edward Olivares ,OF,PIT,111,57,68,27,4,15,45,0.338,34,87,194,13
+Brent Rooker DH  OAK,Brent Rooker ,OF,OAK,113,55,60,22,1,26,62,0.335,40,142,211,4
+Mike Yastrzemski RF  SF,Mike Yastrzemski ,OF, SF,116,65,53,28,3,18,53,0.328,48,116,190,4
+Jurickson Profar LF  SD,Jurickson Profar ,OF, SD,113,60,72,25,2,12,49,0.346,48,70,176,2
+Wilyer Abreu CF  BOS,Wilyer Abreu ,OF,BOS,112,55,72,25,2,14,58,0.341,40,113,184,12
+Michael Conforto RF  SF,Michael Conforto ,OF, SF,116,59,73,20,1,16,56,0.337,45,106,180,6
+Austin Hays LF  BAL,Austin Hays ,OF,BAL,122,61,77,32,2,14,55,0.323,32,118,203,3
+Sal Frelick RF  MIL,Sal Frelick ,OF,MIL,113,57,68,21,3,12,52,0.33,44,100,167,11
+Taylor Ward LF  LAA,Taylor Ward ,OF,LAA,95,62,65,20,1,15,50,0.351,40,84,168,4
+Garrett Mitchell CF  MIL,Garrett Mitchell ,OF,MIL,113,56,66,22,5,14,52,0.321,39,125,181,13
+Trevor Larnach LF  MIN,Trevor Larnach ,OF,MIN,96,54,56,17,3,16,67,0.347,51,113,163,6
+Harrison Bader CF  NYM,Harrison Bader ,OF,NYM,96,55,68,16,5,11,49,0.305,21,78,159,21
+Alex Kirilloff 1B  MIN,Alex Kirilloff ,OF,MIN,96,53,66,19,2,16,55,0.363,42,97,174,2
+Seth Brown RF  OAK,Seth Brown ,OF,OAK,97,43,51,23,3,20,60,0.325,35,106,186,6
+Chris Taylor LF  LAD,Chris Taylor ,OF,LAD,109,54,59,21,3,15,57,0.322,42,138,170,14
+Victor Robles CF  WAS,Victor Robles ,OF,WAS,112,54,68,21,3,11,46,0.331,36,101,163,16
+Leody Taveras CF  TEX,Leody Taveras ,OF,TEX,113,55,68,23,3,12,52,0.309,33,102,171,12
+Mauricio Dubon 2B  HOU,Mauricio Dubon ,OF,HOU,97,61,77,21,3,10,46,0.325,21,63,168,7
+Alec Burleson LF  STL,Alec Burleson ,OF,STL,96,48,62,24,4,12,51,0.333,33,72,170,6
+Luis Rengifo 2B  LAA,Luis Rengifo ,OF,LAA,103,48,71,19,3,14,48,0.334,29,72,174,7
+Johan Rojas CF  PHI,Johan Rojas ,OF,PHI,97,54,65,21,5,11,50,0.32,29,109,166,16
+Lawrence Butler CF  OAK,Lawrence Butler ,OF,OAK,129,54,68,23,2,17,50,0.294,35,133,188,7
+Nick Senzel 3B  WAS,Nick Senzel ,OF,WAS,112,56,63,19,1,16,55,0.297,32,104,168,9
+Manuel Margot CF  LAD,Manuel Margot ,OF,LAD,94,53,69,26,2,8,54,0.34,31,75,159,9
+Ryan OHearn 1B  BAL,Ryan OHearn ,OF,BAL,99,51,64,23,1,16,58,0.328,24,92,177,5
+MJ Melendez RF  KC,MJ Melendez ,OF, KC,105,53,52,22,3,16,49,0.336,50,118,169,4
+Mickey Moniak CF  LAA,Mickey Moniak ,OF,LAA,95,48,64,26,3,16,57,0.317,20,128,189,9

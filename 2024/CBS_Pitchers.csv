@@ -1,0 +1,201 @@
+Full,Player,Position,Team,W,L,ERA,GP,GS,IP,H,BB,SO,SV,HLD,ER
+Gerrit Cole SP  NYY,Gerrit Cole ,SP,NYY,13,6,2.85,31,31,196,151,49,215,0,0,62.06666667
+Justin Verlander SP  HOU,Justin Verlander ,SP,HOU,18,6,2.11,30,30,179,152,50,171,0,0,41.96555556
+Zack Wheeler SP  PHI,Zack Wheeler ,SP,PHI,14,6,3.56,30,30,182,162,39,194,0,0,71.99111111
+Luis Castillo SP  SEA,Luis Castillo ,SP,SEA,16,7,3.46,30,30,182,160,49,194,0,0,69.96888889
+Spencer Strider SP  ATL,Spencer Strider ,SP,ATL,16,7,3.81,30,30,170,144,54,247,0,0,71.96666667
+Logan Webb SP  SF,Logan Webb ,SP, SF,13,9,3.39,30,30,194,179,43,171,0,0,73.07333333
+Framber Valdez SP  HOU,Framber Valdez ,SP,HOU,15,7,3.18,29,29,181,155,58,178,0,0,63.95333333
+Kevin Gausman SP  TOR,Kevin Gausman ,SP,TOR,12,8,3.1,30,30,177,157,44,213,0,0,60.96666667
+Blake Snell SP  SD,Blake Snell ,SP, SD,14,9,2.5,31,31,173,115,85,217,0,2,48.05555556
+Yu Darvish SP  SD,Yu Darvish ,SP, SD,15,8,3.42,30,30,184,163,51,183,0,0,69.92
+Zac Gallen SP  ARI,Zac Gallen ,SP,ARI,13,7,3.33,29,29,181,158,46,177,0,0,66.97
+Shane Bieber SP  CLE,Shane Bieber ,SP,CLE,11,7,3.29,30,30,189,174,47,169,0,0,69.09
+Max Fried SP  ATL,Max Fried ,SP,ATL,14,5,3.12,30,30,173,164,45,165,0,0,59.97333333
+Nathan Eovaldi SP  TEX,Nathan Eovaldi ,SP,TEX,14,5,3.2,30,30,177,154,54,165,0,0,62.93333333
+Yoshinobu Yamamoto SP  LAD,Yoshinobu Yamamoto ,SP,LAD,13,6,3.55,30,30,175,152,60,203,0,0,69.02777778
+Joe Musgrove SP  SD,Joe Musgrove ,SP, SD,13,7,3.15,30,30,177,162,48,174,0,0,61.95
+Corbin Burnes SP  BAL,Corbin Burnes ,SP,BAL,10,7,3.17,30,30,179,158,46,186,0,0,63.04777778
+Merrill Kelly SP  ARI,Merrill Kelly ,SP,ARI,13,7,3.31,29,29,177,155,55,171,0,0,65.09666667
+Tyler Glasnow SP  LAD,Tyler Glasnow ,SP,LAD,18,6,4.06,30,30,164,159,54,210,0,0,73.98222222
+Kodai Senga SP  NYM,Kodai Senga ,SP,NYM,12,7,3.45,30,30,175,147,67,204,0,0,67.08333333
+Pablo Lopez SP  MIN,Pablo Lopez ,SP,MIN,11,8,3.27,30,30,176,160,43,190,0,0,63.94666667
+Tarik Skubal SP  DET,Tarik Skubal ,SP,DET,13,7,3.18,30,30,167,144,42,183,0,0,59.00666667
+Cole Ragans RP  KC,Cole Ragans ,SP, KC,9,6,3.13,30,30,178,146,57,189,0,0,61.90444444
+Carlos Rodon SP  NYY,Carlos Rodon ,SP,NYY,16,8,3.47,30,30,161,133,50,185,0,0,62.07444444
+Logan Gilbert SP  SEA,Logan Gilbert ,SP,SEA,12,6,3.68,29,29,171,155,39,162,0,0,69.92
+Chris Bassitt SP  TOR,Chris Bassitt ,SP,TOR,13,9,3.6,30,30,180,163,53,164,0,0,72
+George Kirby SP  SEA,George Kirby ,SP,SEA,12,8,3.47,30,30,174,172,28,160,0,0,67.08666667
+Aaron Nola SP  PHI,Aaron Nola ,SP,PHI,12,9,3.92,29,29,179,164,41,186,0,0,77.96444444
+Justin Steele SP  CHC,Justin Steele ,SP,CHC,13,6,3.32,30,30,168,163,41,166,0,0,61.97333333
+Freddy Peralta SP  MIL,Freddy Peralta ,SP,MIL,11,9,3.35,30,30,164,127,53,194,0,0,61.04444444
+Zach Eflin SP  TB,Zach Eflin ,SP, TB,13,10,3.75,30,30,168,151,32,165,0,0,70
+Eduardo Rodriguez SP  ARI,Eduardo Rodriguez ,SP,ARI,14,9,3.55,29,29,170,152,54,149,0,0,67.05555556
+James Paxton SP  LAD,James Paxton ,SP,LAD,16,4,3.11,26,26,136,103,42,140,0,0,46.99555556
+Jordan Montgomery SP  TEX,Jordan Montgomery ,SP,TEX,12,7,3.33,31,31,173,169,42,151,0,2,64.01
+Tanner Bibee SP  CLE,Tanner Bibee ,SP,CLE,12,5,3.5,29,29,167,159,51,163,0,0,64.94444444
+Joe Ryan SP  MIN,Joe Ryan ,SP,IN,13,8,3.86,29,29,161,151,39,180,0,0,69.05111111
+Bobby Miller SP  LAD,Bobby Miller ,SP,LAD,15,6,3.8,29,29,154,139,41,151,0,0,65.02222222
+Jesus Luzardo SP  MIA,Jesus Luzardo ,SP,MIA,8,10,3.47,29,29,166,140,49,187,0,0,64.00222222
+Lucas Giolito SP  BOS,Lucas Giolito ,SP,BOS,12,9,3.84,30,30,171,159,54,181,0,0,72.96
+Marcus Stroman SP  NYY,Marcus Stroman ,SP,NYY,13,8,3.75,29,29,161,149,49,137,0,0,67.08333333
+Sonny Gray SP  STL,Sonny Gray ,SP,STL,9,7,3.07,30,30,167,154,50,159,0,0,56.96555556
+Bryce Miller SP  SEA,Bryce Miller ,SP,SEA,11,7,3.25,29,29,155,131,33,145,0,0,55.97222222
+Mitch Keller SP  PIT,Mitch Keller ,SP,PIT,10,9,3.82,30,30,179,171,59,174,0,0,75.97555556
+J.P. France SP  HOU,J.P. France ,SP,HOU,13,5,3.41,26,26,148,131,47,116,0,0,56.07555556
+Charlie Morton SP  ATL,Charlie Morton ,SP,ATL,14,8,3.71,29,29,160,140,63,179,0,0,65.95555556
+Cristian Javier SP  HOU,Cristian Javier ,SP,HOU,11,7,3.42,29,29,150,116,51,159,0,0,57
+Taijuan Walker SP  PHI,Taijuan Walker ,SP,PHI,13,6,3.95,29,29,164,158,48,135,0,0,71.97777778
+Nestor Cortes SP  NYY,Nestor Cortes ,SP,NYY,10,4,3.25,26,26,144,116,41,142,0,0,52
+Triston McKenzie SP  CLE,Triston McKenzie ,SP,CLE,8,13,3.4,30,30,172,145,55,168,0,0,64.97777778
+Ryan Pepiot RP  TB,Ryan Pepiot ,SP, TB,11,6,3.38,29,29,152,123,44,143,0,0,57.08444444
+Keaton Winn RP  SF,Keaton Winn ,SP, SF,12,10,3.92,32,32,170,167,40,154,0,0,74.04444444
+Bailey Ober SP  MIN,Bailey Ober ,SP,MIN,9,7,3.69,29,29,156,140,32,150,0,0,63.96
+Shota Imanaga P  CHC,Shota Imanaga ,SP,CHC,10,6,4.13,30,30,168,161,56,164,0,0,77.09333333
+Michael Wacha SP  KC,Michael Wacha ,SP, KC,10,7,3.93,29,29,165,160,50,141,0,0,72.05
+Aaron Civale SP  TB,Aaron Civale ,SP, TB,9,7,3.16,30,30,154,137,35,147,0,0,54.07111111
+Dylan Cease SP  CHW,Dylan Cease ,SP,CHW,7,9,3.72,30,30,167,144,65,195,0,0,69.02666667
+Chris Sale SP  ATL,Chris Sale ,SP,ATL,10,6,3.46,29,29,143,124,37,172,0,0,54.97555556
+Cody Bradford RP  TEX,Cody Bradford ,SP,TEX,14,8,3.83,32,32,160,157,51,143,0,0,68.08888889
+Hunter Brown SP  HOU,Hunter Brown ,SP,HOU,14,9,4.17,29,29,151,149,49,167,0,0,69.96333333
+Eury Perez SP  MIA,Eury Perez ,SP,MIA,9,8,3.66,30,30,150,128,45,172,0,0,61
+Miles Mikolas SP  STL,Miles Mikolas ,SP,STL,9,9,3.82,28,28,172,171,38,122,0,0,73.00444444
+Kyle Gibson SP  STL,Kyle Gibson ,SP,STL,11,8,4.23,29,29,168,176,45,133,0,0,78.96
+Michael King RP  SD,Michael King ,SP, SD,8,8,2.98,29,29,145,128,39,181,0,0,48.01111111
+Zack Littell SP  TB,Zack Littell ,SP, TB,9,7,3.41,29,29,148,134,23,131,0,0,56.07555556
+Dean Kremer SP  BAL,Dean Kremer ,SP,BAL,10,8,3.69,29,29,161,153,49,137,0,0,66.01
+Patrick Sandoval SP  LAA,Patrick Sandoval ,SP,LAA,11,9,3.17,29,29,159,141,64,146,0,0,56.00333333
+Seth Lugo SP  KC,Seth Lugo ,SP, KC,9,8,4.63,30,30,167,179,52,158,0,0,85.91222222
+Grayson Rodriguez SP  BAL,Grayson Rodriguez ,SP,BAL,8,6,3.58,29,29,156,149,44,161,0,0,62.05333333
+Sean Manaea RP  NYM,Sean Manaea ,SP,NYM,11,6,3.44,26,26,136,122,42,142,0,0,51.98222222
+Jose Quintana SP  NYM,Jose Quintana ,SP,NYM,7,7,3.12,28,28,156,148,42,131,0,0,54.08
+Ranger Suarez SP  PHI,Ranger Suarez ,SP,PHI,8,7,3.85,29,29,159,154,45,143,0,0,68.01666667
+Kenta Maeda SP  DET,Kenta Maeda ,SP,DET,10,9,3.74,30,30,154,147,45,163,0,0,63.99555556
+Hunter Greene SP  CIN,Hunter Greene ,SP,CIN,9,8,4.24,29,29,157,153,56,204,0,0,73.96444444
+John Means SP  BAL,John Means ,SP,BAL,9,7,3.13,26,26,144,127,36,120,0,0,50.08
+Lance Lynn SP  STL,Lance Lynn ,SP,STL,11,10,4.47,29,29,167,176,49,163,0,0,82.94333333
+Wade Miley SP  MIL,Wade Miley ,SP,MIL,10,6,3.97,30,30,154,137,50,108,0,0,67.93111111
+Dane Dunning SP  TEX,Dane Dunning ,SP,TEX,10,5,3.55,26,26,147,136,49,123,0,0,57.98333333
+Louie Varland SP  MIN,Louie Varland ,SP,MIN,12,5,4.4,25,25,139,136,43,140,0,0,67.95555556
+Graham Ashcraft SP  CIN,Graham Ashcraft ,SP,CIN,9,8,4.12,29,29,164,161,56,125,0,0,75.07555556
+Tyler Anderson SP  LAA,Tyler Anderson ,SP,LAA,8,6,4.11,29,29,162,149,61,134,0,0,73.98
+Reid Detmers SP  LAA,Reid Detmers ,SP,LAA,7,8,3.37,29,29,155,131,58,162,0,0,58.03888889
+Jon Gray SP  TEX,Jon Gray ,SP,EX,10,6,3.7,26,26,146,137,50,138,0,0,60.02222222
+Jordan Wicks SP  CHC,Jordan Wicks ,SP,CHC,10,9,3.88,29,29,153,145,47,131,0,0,65.96
+Gavin Williams SP  CLE,Gavin Williams ,SP,CLE,6,8,3.16,29,29,154,119,58,148,0,0,54.07111111
+Yusei Kikuchi SP  TOR,Yusei Kikuchi ,SP,TOR,9,6,3.83,29,29,148,144,45,159,0,0,62.98222222
+Griffin Canning SP  LAA,Griffin Canning ,SP,LAA,8,8,3.65,26,26,143,127,40,154,0,0,57.99444444
+Kyle Hendricks SP  CHC,Kyle Hendricks ,SP,CHC,8,9,4.06,29,29,164,164,39,120,0,0,73.98222222
+JP Sears SP  OAK,JP Sears ,SP,AK,7,11,3.48,30,30,168,153,46,145,0,0,64.96
+Ryne Nelson SP  ARI,Ryne Nelson ,SP,ARI,8,8,3.83,29,29,160,146,46,111,0,0,68.08888889
+Casey Mize SP  DET,Casey Mize ,SP,DET,7,10,3.91,29,29,161,149,48,151,0,0,69.94555556
+Cristopher Sanchez SP  PHI,Cristopher Sanchez ,SP,PHI,7,5,3.33,26,26,135,124,25,123,0,0,49.95
+Jose Berrios SP  TOR,Jose Berrios ,SP,TOR,9,8,4.01,25,25,146,141,40,138,0,0,65.05111111
+Jameson Taillon SP  CHC,Jameson Taillon ,SP,CHC,10,7,4.53,28,28,153,152,42,132,0,0,77.01
+Braxton Garrett SP  MIA,Braxton Garrett ,SP,MIA,6,11,3.48,29,29,155,139,33,150,0,0,59.93333333
+Andrew Abbott SP  CIN,Andrew Abbott ,SP,CIN,9,12,4.36,30,30,161,159,65,173,0,0,77.99555556
+Randy Vasquez RP  SD,Randy Vasquez ,SP, SD,9,7,3.49,28,28,142,125,46,134,0,0,55.06444444
+Kyle Bradish SP  BAL,Kyle Bradish ,SP,BAL,8,7,3.59,24,24,138,131,39,134,0,0,55.04666667
+Bryan Woo SP  SEA,Bryan Woo ,SP,SEA,7,7,3.51,29,29,146,130,41,151,0,0,56.94
+Martin Perez SP  PIT,Martin Perez ,SP,PIT,8,9,4.05,29,29,171,180,70,129,0,0,76.95
+Alek Manoah SP  TOR,Alek Manoah ,SP,TOR,10,8,3.71,26,26,143,134,49,129,0,0,58.94777778
+Josh Hader RP  HOU,Josh Hader ,RP,HOU,3,1,2.25,64,0,56,34,26,83,43,3,14
+Cole Ragans RP  KC,Cole Ragans ,RP, KC,9,6,3.13,30,30,178,146,57,189,0,0,61.90444444
+Evan Phillips RP  LAD,Evan Phillips ,RP,LAD,2,2,1.8,67,0,60,35,13,68,37,3,12
+Edwin Diaz RP  NYM,Edwin Diaz ,RP,NYM,2,3,1.29,69,0,70,41,22,137,30,3,10.03333333
+Raisel Iglesias RP  ATL,Raisel Iglesias ,RP,ATL,2,2,2.91,72,0,65,57,17,82,37,3,21.01666667
+Pete Fairbanks RP  TB,Pete Fairbanks ,RP, TB,2,2,2.32,70,0,62,35,24,94,35,3,15.98222222
+Jhoan Duran RP  MIN,Jhoan Duran ,RP,MIN,2,2,2.18,66,0,66,48,22,88,35,3,15.98666667
+Jose Alvarado RP  PHI,Jose Alvarado ,RP,PHI,2,1,2.67,66,0,64,51,29,97,35,3,18.98666667
+Devin Williams RP  MIL,Devin Williams ,RP,MIL,2,3,2.02,67,0,58,29,31,92,35,3,13.01777778
+Emmanuel Clase RP  CLE,Emmanuel Clase ,RP,CLE,2,2,2.4,65,0,60,47,11,54,35,3,16
+Ryan Helsley RP  STL,Ryan Helsley ,RP,STL,2,3,1.99,66,0,68,40,32,114,29,3,15.03555556
+Ryan Pepiot RP  TB,Ryan Pepiot ,RP, TB,11,6,3.38,29,29,152,123,44,143,0,0,57.08444444
+Jordan Romano RP  TOR,Jordan Romano ,RP,TOR,2,2,2.63,66,0,65,51,25,79,32,3,18.99444444
+DL Hall RP  MIL,DL Hall ,RP,IL,9,10,3.98,31,31,163,157,56,224,0,0,72.08222222
+Adbert Alzolay RP  CHC,Adbert Alzolay ,RP,CHC,2,3,3.04,69,0,68,61,15,83,31,3,22.96888889
+Jose Leclerc RP  TEX,Jose Leclerc ,RP,TEX,2,3,3.15,70,0,60,45,32,77,34,3,21
+Cody Bradford RP  TEX,Cody Bradford ,RP,TEX,14,8,3.83,32,32,160,157,51,143,0,0,68.08888889
+Zack Littell SP  TB,Zack Littell ,RP, TB,9,7,3.41,29,29,148,134,23,131,0,0,56.07555556
+Michael King RP  SD,Michael King ,RP, SD,8,8,2.98,29,29,145,128,39,181,0,0,48.01111111
+Robert Suarez RP  SD,Robert Suarez ,RP, SD,2,2,3.29,76,0,63,38,25,67,30,3,23.03
+David Bednar RP  PIT,David Bednar ,RP,PIT,2,2,2.48,53,0,58,50,20,78,31,3,15.98222222
+Tanner Scott RP  MIA,Tanner Scott ,RP,MIA,2,3,3.08,75,0,73,58,34,108,28,4,24.98222222
+Clay Holmes RP  NYY,Clay Holmes ,RP,NYY,2,3,2.49,69,0,65,48,22,70,30,3,17.98333333
+Craig Kimbrel RP  BAL,Craig Kimbrel ,RP,BAL,2,2,3.3,66,0,60,41,26,74,31,3,22
+Sean Manaea RP  NYM,Sean Manaea ,RP,NYM,11,6,3.44,26,26,136,122,42,142,0,0,51.98222222
+Dane Dunning SP  TEX,Dane Dunning ,RP,TEX,10,5,3.55,26,26,147,136,49,123,0,0,57.98333333
+Andres Munoz RP  SEA,Andres Munoz ,RP,SEA,2,3,2.86,67,0,63,48,23,89,28,3,20.02
+Frankie Montas RP  CIN,Frankie Montas ,RP,CIN,9,9,4.2,29,29,163,154,53,154,0,0,76.06666667
+Paul Sewald RP  ARI,Paul Sewald ,RP,ARI,2,2,3.57,65,0,58,43,21,79,29,3,23.00666667
+Louie Varland SP  MIN,Louie Varland ,RP,MIN,12,5,4.4,25,25,139,136,43,140,0,0,67.95555556
+Chris Paddack RP  MIN,Chris Paddack ,RP,MIN,10,8,3.8,29,29,147,147,35,158,0,0,62.06666667
+Alexis Diaz RP  CIN,Alexis Diaz ,RP,CIN,2,2,3.19,71,0,62,43,39,94,28,3,21.97555556
+Alex Lange RP  DET,Alex Lange ,RP,DET,2,2,4.04,73,0,69,51,46,91,28,3,30.97333333
+Carlos Estevez RP  LAA,Carlos Estevez ,RP,LAA,2,3,4.03,70,0,67,66,33,83,29,3,30.00111111
+Randy Vasquez RP  SD,Randy Vasquez ,RP, SD,9,7,3.49,28,28,142,125,46,134,0,0,55.06444444
+Martin Perez SP  PIT,Martin Perez ,RP,PIT,8,9,4.05,29,29,171,180,70,129,0,0,76.95
+Kenley Jansen RP  BOS,Kenley Jansen ,RP,BOS,2,3,3.92,69,0,62,56,25,85,27,3,27.00444444
+Kutter Crawford SP  BOS,Kutter Crawford ,RP,BOS,8,8,3.93,29,29,142,126,39,143,0,0,62.00666667
+Reynaldo Lopez RP  ATL,Reynaldo Lopez ,RP,ATL,9,6,3.98,26,26,131,132,43,156,0,0,57.93111111
+Nick Pivetta RP  BOS,Nick Pivetta ,RP,BOS,8,8,4.27,25,25,139,139,48,157,0,0,65.94777778
+Ross Stripling SP  OAK,Ross Stripling ,RP,OAK,4,8,3.49,26,26,134,122,24,105,0,0,51.96222222
+Camilo Doval RP  SF,Camilo Doval ,RP, SF,1,2,3.12,53,0,49,41,21,66,24,2,16.98666667
+Andrew Heaney SP  TEX,Andrew Heaney ,RP,TEX,7,5,3.41,26,26,124,117,48,132,0,0,46.98222222
+Peter Lambert RP  COL,Peter Lambert ,RP,COL,9,10,4.56,27,27,144,149,47,116,0,0,72.96
+Kyle Finnegan RP  WAS,Kyle Finnegan ,RP,WAS,1,3,4.44,73,0,71,78,29,82,21,4,35.02666667
+Steven Matz SP  STL,Steven Matz ,RP,STL,7,8,4.09,26,26,132,138,42,125,0,0,59.98666667
+Will Smith RP  KC,Will Smith ,RP, KC,1,4,5.56,64,0,55,58,25,73,24,3,33.97777778
+Luis Medina SP  OAK,Luis Medina ,RP,OAK,5,12,4.14,29,29,150,137,60,140,0,0,69
+Garrett Whitlock SP  BOS,Garrett Whitlock ,RP,BOS,7,7,4.74,26,26,129,147,33,126,0,0,67.94
+A.J. Minter RP  ATL,A.J. Minter ,RP,ATL,3,3,3.27,77,0,66,57,21,89,12,32,23.98
+Dakota Hudson SP  COL,Dakota Hudson ,RP,COL,7,8,4.71,26,26,147,155,54,85,0,0,76.93
+Ryan Pressly RP  HOU,Ryan Pressly ,RP,HOU,6,2,2.82,65,0,67,45,16,75,5,7,20.99333333
+Jhony Brito SP  SD,Jhony Brito ,RP, SD,9,9,4.81,29,29,131,138,44,110,0,0,70.01222222
+Chase Silseth RP  LAA,Chase Silseth ,RP,LAA,7,6,4.54,25,25,111,107,43,113,0,0,55.99333333
+John Brebbia RP  CHW,John Brebbia ,RP,CHW,1,2,4.57,81,0,61,68,24,76,17,3,30.97444444
+Yuki Matsui RP  SD,Yuki Matsui ,RP, SD,5,3,2.96,77,0,70,52,31,98,6,25,23.02222222
+Tanner Banks RP  CHW,Tanner Banks ,RP,CHW,5,2,4.54,71,0,109,111,35,105,1,11,54.98444444
+Tyler Kinley RP  COL,Tyler Kinley ,RP,COL,1,3,5.08,69,0,62,89,25,86,19,3,34.99555556
+Hector Neris RP  CHC,Hector Neris ,RP,CHC,4,3,2.91,74,0,65,47,29,84,6,31,21.01666667
+Gregory Santos RP  SEA,Gregory Santos ,RP,SEA,2,1,3.68,71,0,71,78,20,74,9,8,29.03111111
+Scott Barlow RP  CLE,Scott Barlow ,RP,CLE,4,4,3.78,72,0,69,58,30,79,8,10,28.98
+Kevin Ginkel RP  ARI,Kevin Ginkel ,RP,ARI,4,1,2.57,64,0,63,48,25,76,4,13,17.99
+Woo-Suk Go RP  SD,Woo-Suk Go ,RP, SD,4,2,4.19,73,0,73,69,26,71,6,13,33.98555556
+Bryan Abreu RP  HOU,Bryan Abreu ,RP,HOU,2,1,1.85,70,0,68,42,27,95,1,22,13.97777778
+Aroldis Chapman RP  PIT,Aroldis Chapman ,RP,PIT,5,3,3.8,78,0,64,48,47,112,5,20,27.02222222
+Josh Sborz RP  TEX,Josh Sborz ,RP,TEX,5,5,5.25,78,0,84,69,31,119,1,26,49
+Blake Treinen RP  LAD,Blake Treinen ,RP,LAD,3,2,3.57,53,0,53,38,20,52,9,9,21.02333333
+Ian Hamilton RP  NYY,Ian Hamilton ,RP,NYY,3,4,2.68,62,0,84,64,37,98,1,9,25.01333333
+Joel Payamps RP  MIL,Joel Payamps ,RP,MIL,5,5,2.85,76,0,82,75,22,86,1,27,25.96666667
+Adam Ottavino RP  NYM,Adam Ottavino ,RP,NYM,3,5,3.14,79,0,66,54,29,78,8,20,23.02666667
+David Robertson RP  TEX,David Robertson ,RP,TEX,4,3,3.14,65,0,66,53,31,88,4,15,23.02666667
+Miguel Diaz RP  DET,Miguel Diaz ,RP,DET,4,1,0.95,51,0,57,33,24,69,1,10,6.016666667
+Emilio Pagan RP  CIN,Emilio Pagan ,RP,CIN,5,2,3.88,71,0,72,61,29,88,1,10,31.04
+Jeff Hoffman RP  PHI,Jeff Hoffman ,RP,PHI,6,1,3.15,63,0,60,45,26,83,1,11,21
+Abner Uribe RP  MIL,Abner Uribe ,RP,MIL,3,1,2.06,80,0,70,44,51,94,1,20,16.02222222
+JoJo Romero RP  STL,JoJo Romero ,RP,STL,5,4,4.5,73,0,78,72,30,102,1,8,39
+Jason Adam RP  TB,Jason Adam ,RP, TB,3,1,2.47,70,0,62,36,20,76,1,23,17.01555556
+Shawn Armstrong RP  TB,Shawn Armstrong ,RP, TB,2,1,2.49,60,0,65,54,15,68,2,8,17.98333333
+Tanner Rainey RP  WAS,Tanner Rainey ,RP,WAS,1,3,3.91,71,0,76,78,42,106,6,8,33.01777778
+Shelby Miller RP  DET,Shelby Miller ,RP,DET,5,5,2.17,28,16,58,30,27,68,0,0,13.98444444
+Andrew Kittredge RP  STL,Andrew Kittredge ,RP,STL,5,3,3.49,57,0,49,51,7,44,7,5,19.00111111
+Colin Poche RP  TB,Colin Poche ,RP, TB,5,2,3.12,62,0,52,40,21,56,4,23,18.02666667
+Yennier Cano RP  BAL,Yennier Cano ,RP,BAL,1,2,3.46,69,0,65,63,18,63,6,33,24.98888889
+Xzavion Curry RP  CLE,Xzavion Curry ,RP,CLE,6,2,4.03,42,0,76,76,24,50,1,8,34.03111111
+Chris Martin RP  BOS,Chris Martin ,RP,BOS,2,1,1.93,64,0,56,57,8,67,3,22,12.00888889
+Julian Merryweather RP  CHC,Julian Merryweather ,RP,CHC,3,1,4.57,68,0,65,65,35,96,4,16,33.00555556
+Trevor Megill RP  MIL,Trevor Megill ,RP,MIL,4,2,4.38,71,0,72,80,27,106,1,8,35.04
+Seranthony Dominguez RP  PHI,Seranthony Dominguez ,RP,PHI,4,3,3.6,57,0,45,45,22,56,9,19,18
+Chris Devenski RP  TB,Chris Devenski ,RP, TB,6,2,4.95,58,0,60,56,14,58,2,14,33
+Erik Swanson RP  TOR,Erik Swanson ,RP,TOR,5,4,2.67,27,15,54,42,17,66,0,2,16.02
+Kirby Yates RP  TEX,Kirby Yates ,RP,TEX,6,4,3.66,73,0,64,42,44,92,1,12,26.02666667
+Brock Burke RP  TEX,Brock Burke ,RP,TEX,5,4,4.2,61,0,75,82,18,79,1,14,35
+George Soriano RP  MIA,George Soriano ,RP,MIA,1,1,4.1,53,0,90,86,43,99,1,9,41
+Bowden Francis RP  TOR,Bowden Francis ,RP,TOR,5,3,1.84,22,9,49,31,11,48,0,0,10.01777778
+Tyler Holton RP  DET,Tyler Holton ,RP,DET,2,1,2.44,49,0,59,44,14,57,1,11,15.99555556
+Justin Lawrence RP  COL,Justin Lawrence ,RP,COL,3,3,5.04,77,0,75,84,46,104,6,16,42
+Phil Maton RP  TB,Phil Maton ,RP, TB,3,2,3.22,77,0,67,53,25,78,1,12,23.97111111
+Tommy Kahnle RP  NYY,Tommy Kahnle ,RP,NYY,1,2,3.05,71,0,65,39,27,74,1,22,22.02777778
+Jay Jackson RP  MIN,Jay Jackson ,RP,MIN,4,2,2.21,52,0,53,35,17,52,1,5,13.01444444
+Justin Topa RP  MIN,Justin Topa ,RP,MIN,4,2,2.95,77,0,64,61,19,59,1,24,20.97777778

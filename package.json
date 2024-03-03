@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-baseball-projections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiquetj/fantasy-baseball-projections.git"
+  },
+  "author": "JT Hiquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiquetj/fantasy-baseball-projections/issues"
+  },
+  "homepage": "https://github.com/hiquetj/fantasy-baseball-projections#readme"
+}
